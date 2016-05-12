@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace PinYinUtil
 {
@@ -21,7 +18,7 @@ namespace PinYinUtil
             ["涯"] = "YA",
             ["垣"] = "YUAN",
             ["壳"] = "KE",
-            ["潟"] = "潟",
+            ["潟"] = "XI",
             ["喝"] = "HE",
             ["褐"] = "HE",
             ["缶"] = "ZUO",
@@ -30,7 +27,7 @@ namespace PinYinUtil
             ["矫"] = "JIAO",
             ["襟"] = "JIN",
             ["隅"] = "YU",
-            ["渓"] = "渓",
+            ["渓"] = "XI",
             ["蛍"] = "TING",
             ["嫌"] = "XIAN",
             ["洪"] = "HONG",
@@ -38,7 +35,7 @@ namespace PinYinUtil
             ["昆"] = "KUN",
             ["崎"] = "QI",
             ["皿"] = "MIN",
-            ["桟"] = "桟",
+            ["桟"] = "ZHAN",
             ["伞"] = "SAN",
             ["肢"] = "ZHI",
             ["遮"] = "ZHE",
@@ -49,16 +46,16 @@ namespace PinYinUtil
             ["尚"] = "SHANG",
             ["宵"] = "XIAO",
             ["縄"] = "JUN",
-            ["壌"] = "壌",
+            ["壌"] = "RANG",
             ["唇"] = "CHUN",
             ["甚"] = "SHEN",
             ["据"] = "JU",
             ["杉"] = "SHAN",
-            ["斉"] = "斉",
+            ["斉"] = "QI",
             ["逝"] = "SHI",
             ["仙"] = "XIAN",
             ["栓"] = "SHUAN",
-            ["挿"] = "挿",
+            ["挿"] = "CHA",
             ["曹"] = "CAO",
             ["槽"] = "CAO",
             ["藻"] = "ZAO",
@@ -89,7 +86,7 @@ namespace PinYinUtil
             ["频"] = "PIN",
             ["瓶"] = "PING",
             ["雰"] = "ZUO",
-            ["塀"] = "塀",
+            ["塀"] = "PING",
             ["泡"] = "PAO",
             ["俸"] = "ZUO",
             ["褒"] = "BAO",
